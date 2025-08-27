@@ -18,6 +18,9 @@
     height: 50px;
     background-color: red;
     border-radius: 8px;
+    color: white;
+    border-color: transparent;
+    font-family: cursive;
 }
 .espaco_botao{
     width: 400px;
@@ -28,4 +31,7 @@
 .linha1{
     width: 95%;
     height: 70px;
+}
+#usuario{
+    border: transparent;
 }
