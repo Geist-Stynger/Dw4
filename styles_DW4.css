@@ -10,13 +10,22 @@
     background-color: white;
     border-radius: 8px;
     width: 400px;
-    height: 700px;
-  
-   
+    height: 580px;
+    padding: 12px;
 }
 .botao{
-    width: 300px;
+    width: 390px;
     height: 50px;
     background-color: red;
     border-radius: 8px;
+}
+.espaco_botao{
+    width: 400px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.linha1{
+    width: 95%;
+    height: 70px;
 }
